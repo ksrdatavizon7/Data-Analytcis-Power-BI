@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/ksrdatavizon7/Data-Analytcis-Power-BI/main/ksr_main_logo%20(1).png" alt="KSR Datavizon Logo" width="150"/>
+</p>
+
 <h1 style="color:green;"><strong>Welcome to KSR Datavizon</strong></h1>
 
 <h2 style="color:blue;"><strong>Power BI Project Details</strong></h2>
